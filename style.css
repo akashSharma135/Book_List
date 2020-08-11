@@ -77,6 +77,11 @@ td {
     border: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
+    font-size: 1.7vw;
+}
+
+td:last-child {
+    text-align: center;
 }
   
 tr:nth-child(even) {
